@@ -1,0 +1,7 @@
+Data in this folder has been modified from the F3 dataset, available at: 
+
+https://dataunderground.org/dataset/f3
+https://www.dgbes.com/index.php/data
+https://terranubis.com/datainfo/F3-Demo-2020
+
+As this app uses a single well and three curves, the well las file was modified to a csv for easier import and parsing. The data has not been modified in any way. 
